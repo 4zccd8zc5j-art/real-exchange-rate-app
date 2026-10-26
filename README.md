@@ -4,7 +4,7 @@ A Streamlit app that computes the bilateral **real exchange rate** between any t
 IMF economies (plus the Euro area) from monthly IMF consumer-price and
 exchange-rate data starting in January 1976.
 
-**Live app:** _add your Streamlit URL here after deploying_
+**Live app:** <https://finc470-real-exchange-rate.streamlit.app>
 
 ## What the app does
 
